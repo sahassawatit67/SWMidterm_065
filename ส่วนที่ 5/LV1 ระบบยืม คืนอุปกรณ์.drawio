@@ -1,0 +1,288 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="Em9CX9y5Pl4utw7Aq-ez">
+    <mxGraphModel dx="2635" dy="938" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="JiRiEkx0Nq_IFmBIRsc7-15" edge="1" parent="1" source="JiRiEkx0Nq_IFmBIRsc7-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="JiRiEkx0Nq_IFmBIRsc7-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JiRiEkx0Nq_IFmBIRsc7-27" edge="1" parent="1" source="JiRiEkx0Nq_IFmBIRsc7-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="JiRiEkx0Nq_IFmBIRsc7-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="410" y="25.03" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JiRiEkx0Nq_IFmBIRsc7-30" edge="1" parent="1" source="JiRiEkx0Nq_IFmBIRsc7-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="JiRiEkx0Nq_IFmBIRsc7-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="120" y="176.62" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JiRiEkx0Nq_IFmBIRsc7-5" parent="1" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" value="1.0" vertex="1">
+          <mxGeometry height="160" width="160" x="330" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JiRiEkx0Nq_IFmBIRsc7-44" edge="1" parent="1" source="JiRiEkx0Nq_IFmBIRsc7-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="JiRiEkx0Nq_IFmBIRsc7-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-10" y="436.6" />
+              <mxPoint x="-10" y="40" />
+              <mxPoint x="120" y="40" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JiRiEkx0Nq_IFmBIRsc7-6" parent="1" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" value="2.0" vertex="1">
+          <mxGeometry height="160" width="160" x="334" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="JiRiEkx0Nq_IFmBIRsc7-54" edge="1" parent="1" source="JiRiEkx0Nq_IFmBIRsc7-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="JiRiEkx0Nq_IFmBIRsc7-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JiRiEkx0Nq_IFmBIRsc7-58" edge="1" parent="1" source="JiRiEkx0Nq_IFmBIRsc7-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;" target="JiRiEkx0Nq_IFmBIRsc7-41">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="414" y="530" />
+              <mxPoint x="600" y="530" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JiRiEkx0Nq_IFmBIRsc7-60" edge="1" parent="1" source="JiRiEkx0Nq_IFmBIRsc7-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" target="JiRiEkx0Nq_IFmBIRsc7-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-40" y="706.6" />
+              <mxPoint x="-40" y="20" />
+              <mxPoint x="145" y="20" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JiRiEkx0Nq_IFmBIRsc7-7" parent="1" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" value="3.0" vertex="1">
+          <mxGeometry height="160" width="160" x="334" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="JiRiEkx0Nq_IFmBIRsc7-64" edge="1" parent="1" source="JiRiEkx0Nq_IFmBIRsc7-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" target="JiRiEkx0Nq_IFmBIRsc7-41">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="539.9985424949239" y="976.5685424949238" as="sourcePoint" />
+            <mxPoint x="799.4300000000001" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JiRiEkx0Nq_IFmBIRsc7-67" edge="1" parent="1" source="JiRiEkx0Nq_IFmBIRsc7-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;" target="JiRiEkx0Nq_IFmBIRsc7-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JiRiEkx0Nq_IFmBIRsc7-8" parent="1" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" value="4.0" vertex="1">
+          <mxGeometry height="160" width="160" x="334" y="830" as="geometry" />
+        </mxCell>
+        <mxCell id="JiRiEkx0Nq_IFmBIRsc7-10" edge="1" parent="1" source="JiRiEkx0Nq_IFmBIRsc7-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="JiRiEkx0Nq_IFmBIRsc7-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JiRiEkx0Nq_IFmBIRsc7-32" edge="1" parent="1" source="JiRiEkx0Nq_IFmBIRsc7-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="JiRiEkx0Nq_IFmBIRsc7-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="60" y="120" />
+              <mxPoint x="60" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JiRiEkx0Nq_IFmBIRsc7-46" edge="1" parent="1" source="JiRiEkx0Nq_IFmBIRsc7-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="JiRiEkx0Nq_IFmBIRsc7-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-20" y="120" />
+              <mxPoint x="-20" y="650" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JiRiEkx0Nq_IFmBIRsc7-9" parent="1" style="html=1;dashed=0;whiteSpace=wrap;" value="ผู้ยืม" vertex="1">
+          <mxGeometry height="50" width="100" x="70" y="95" as="geometry" />
+        </mxCell>
+        <mxCell id="JiRiEkx0Nq_IFmBIRsc7-11" parent="1" style="text;whiteSpace=wrap;html=1;" value="ข้อมูล Login" vertex="1">
+          <mxGeometry height="40" width="100" x="180" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="JiRiEkx0Nq_IFmBIRsc7-17" edge="1" parent="1" source="JiRiEkx0Nq_IFmBIRsc7-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;" target="JiRiEkx0Nq_IFmBIRsc7-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="670" y="176.55" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JiRiEkx0Nq_IFmBIRsc7-12" parent="1" style="html=1;dashed=0;whiteSpace=wrap;" value="ระบบบัญชีมหาวิทยาลัย" vertex="1">
+          <mxGeometry height="50" width="100" x="620" y="95" as="geometry" />
+        </mxCell>
+        <mxCell id="JiRiEkx0Nq_IFmBIRsc7-16" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;span&gt;ข้อมูลยืนยันตัวตน&lt;/span&gt;&lt;span&gt;&lt;span&gt;&lt;sup class=&quot;superscript&quot;&gt;&lt;/sup&gt;&lt;/span&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="490" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="JiRiEkx0Nq_IFmBIRsc7-18" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important; margin-left: 0px !important; margin-right: 0px !important;&quot;&gt;ผลการตรวจสอบสิทธิ์และข้อมูลผู้ใช้&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important; margin-left: 0px !important; margin-right: 0px !important;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important; margin-left: 0px !important; margin-right: 0px !important;&quot;&gt;&lt;sup class=&quot;superscript&quot; style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important; margin-left: 0px !important; margin-right: 0px !important; font-size: 16px !important; background-color: transparent !important;&quot;&gt;&lt;/sup&gt;&lt;/span&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="50" width="210" x="480" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="JiRiEkx0Nq_IFmBIRsc7-25" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="30" width="130" x="540" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="JiRiEkx0Nq_IFmBIRsc7-23" parent="JiRiEkx0Nq_IFmBIRsc7-25" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" value="D1" vertex="1">
+          <mxGeometry height="30" width="100" as="geometry" />
+        </mxCell>
+        <mxCell id="JiRiEkx0Nq_IFmBIRsc7-24" parent="JiRiEkx0Nq_IFmBIRsc7-25" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;" value="User" vertex="1">
+          <mxGeometry height="30" width="100" x="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JiRiEkx0Nq_IFmBIRsc7-28" edge="1" parent="1" source="JiRiEkx0Nq_IFmBIRsc7-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;" target="JiRiEkx0Nq_IFmBIRsc7-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="610" y="63.38" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JiRiEkx0Nq_IFmBIRsc7-29" parent="1" style="text;whiteSpace=wrap;html=1;" value="บันทึก/อัปเดตข้อมูลผู้ใช้" vertex="1">
+          <mxGeometry height="40" width="150" x="470" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JiRiEkx0Nq_IFmBIRsc7-31" parent="1" style="text;whiteSpace=wrap;html=1;" value="สถานะการ Login" vertex="1">
+          <mxGeometry height="40" width="120" x="130" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="JiRiEkx0Nq_IFmBIRsc7-33" parent="1" style="text;whiteSpace=wrap;html=1;" value="เงื่อนไขการค้นหา" vertex="1">
+          <mxGeometry height="40" width="120" x="70" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="JiRiEkx0Nq_IFmBIRsc7-34" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="30" width="130" x="165" y="255" as="geometry" />
+        </mxCell>
+        <mxCell id="JiRiEkx0Nq_IFmBIRsc7-35" parent="JiRiEkx0Nq_IFmBIRsc7-34" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" value="D2" vertex="1">
+          <mxGeometry height="30" width="100" as="geometry" />
+        </mxCell>
+        <mxCell id="JiRiEkx0Nq_IFmBIRsc7-36" parent="JiRiEkx0Nq_IFmBIRsc7-34" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;" value="Equipment" vertex="1">
+          <mxGeometry height="30" width="100" x="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JiRiEkx0Nq_IFmBIRsc7-37" edge="1" parent="1" source="JiRiEkx0Nq_IFmBIRsc7-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="JiRiEkx0Nq_IFmBIRsc7-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JiRiEkx0Nq_IFmBIRsc7-38" parent="1" style="text;whiteSpace=wrap;html=1;" value="ข้อมูลอุปกรณ์" vertex="1">
+          <mxGeometry height="40" width="100" x="310" y="245" as="geometry" />
+        </mxCell>
+        <mxCell id="JiRiEkx0Nq_IFmBIRsc7-39" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="30" width="160" x="570" y="255" as="geometry" />
+        </mxCell>
+        <mxCell id="JiRiEkx0Nq_IFmBIRsc7-40" parent="JiRiEkx0Nq_IFmBIRsc7-39" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" value="D3" vertex="1">
+          <mxGeometry height="30" width="123.07692307692308" as="geometry" />
+        </mxCell>
+        <mxCell id="JiRiEkx0Nq_IFmBIRsc7-41" parent="JiRiEkx0Nq_IFmBIRsc7-39" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;" value="Borrowing_Transactions" vertex="1">
+          <mxGeometry height="30" width="130" x="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JiRiEkx0Nq_IFmBIRsc7-42" edge="1" parent="1" source="JiRiEkx0Nq_IFmBIRsc7-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="JiRiEkx0Nq_IFmBIRsc7-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JiRiEkx0Nq_IFmBIRsc7-43" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;span&gt;ข้อมูลช่วงเวลาการจอง&lt;/span&gt;&lt;span&gt;&lt;span&gt;&lt;sup class=&quot;superscript&quot;&gt;&lt;/sup&gt;&lt;/span&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="140" x="450" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="JiRiEkx0Nq_IFmBIRsc7-45" parent="1" style="text;whiteSpace=wrap;html=1;" value="รายการอุปกรณ์ที่ยืมได้" vertex="1">
+          <mxGeometry height="40" width="140" x="50" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="JiRiEkx0Nq_IFmBIRsc7-47" parent="1" style="text;whiteSpace=wrap;html=1;" value="รายละเอียดคำขอยืม" vertex="1">
+          <mxGeometry height="40" width="130" x="50" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="JiRiEkx0Nq_IFmBIRsc7-49" edge="1" parent="1" source="JiRiEkx0Nq_IFmBIRsc7-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="JiRiEkx0Nq_IFmBIRsc7-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="770" y="25" />
+              <mxPoint x="770" y="650" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JiRiEkx0Nq_IFmBIRsc7-50" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;span&gt;ตรวจสอบประวัติผู้ใช้&lt;/span&gt;&lt;span&gt;&lt;span&gt;&lt;sup class=&quot;superscript&quot;&gt;&lt;/sup&gt;&lt;/span&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="130" x="660" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="JiRiEkx0Nq_IFmBIRsc7-51" edge="1" parent="1" source="JiRiEkx0Nq_IFmBIRsc7-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;" target="JiRiEkx0Nq_IFmBIRsc7-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="660" y="593.4" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JiRiEkx0Nq_IFmBIRsc7-52" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;span&gt;อ่านข้อมูลการยืม/ประวัติค้างส่ง&lt;/span&gt;&lt;span&gt;&lt;span&gt;&lt;sup class=&quot;superscript&quot;&gt;&lt;/sup&gt;&lt;/span&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="180" x="490" y="565" as="geometry" />
+        </mxCell>
+        <mxCell id="JiRiEkx0Nq_IFmBIRsc7-62" edge="1" parent="1" source="JiRiEkx0Nq_IFmBIRsc7-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="JiRiEkx0Nq_IFmBIRsc7-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="750" y="755" />
+              <mxPoint x="750" y="910" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JiRiEkx0Nq_IFmBIRsc7-53" parent="1" style="html=1;dashed=0;whiteSpace=wrap;" value="เจ้าหน้าที่" vertex="1">
+          <mxGeometry height="50" width="100" x="620" y="730" as="geometry" />
+        </mxCell>
+        <mxCell id="JiRiEkx0Nq_IFmBIRsc7-55" parent="1" style="text;whiteSpace=wrap;html=1;" value="คำขอยืมรออนุมัติ" vertex="1">
+          <mxGeometry height="40" width="120" x="570" y="710" as="geometry" />
+        </mxCell>
+        <mxCell id="JiRiEkx0Nq_IFmBIRsc7-56" edge="1" parent="1" source="JiRiEkx0Nq_IFmBIRsc7-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.669;entryY=0.994;entryDx=0;entryDy=0;entryPerimeter=0;" target="JiRiEkx0Nq_IFmBIRsc7-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="670" y="800" />
+              <mxPoint x="441" y="800" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JiRiEkx0Nq_IFmBIRsc7-57" parent="1" style="text;whiteSpace=wrap;html=1;" value="ผลการพิจารณาอนุมัติ/ปฏิเสธ" vertex="1">
+          <mxGeometry height="40" width="170" x="580" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="JiRiEkx0Nq_IFmBIRsc7-59" parent="1" style="text;whiteSpace=wrap;html=1;" value="บันทึกข้อมูลคำขอยืม" vertex="1">
+          <mxGeometry height="40" width="140" x="480" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="JiRiEkx0Nq_IFmBIRsc7-61" parent="1" style="text;whiteSpace=wrap;html=1;" value="สถานะคำขอ" vertex="1">
+          <mxGeometry height="40" width="90" x="205" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="JiRiEkx0Nq_IFmBIRsc7-63" parent="1" style="text;whiteSpace=wrap;html=1;" value="บันทึกการคืนและสภาพอุปกรณ์" vertex="1">
+          <mxGeometry height="40" width="180" x="590" y="880" as="geometry" />
+        </mxCell>
+        <mxCell id="JiRiEkx0Nq_IFmBIRsc7-65" parent="1" style="text;whiteSpace=wrap;html=1;" value="อัปเดตสถานะการคืน" vertex="1">
+          <mxGeometry height="40" width="130" x="570" y="940" as="geometry" />
+        </mxCell>
+        <mxCell id="JiRiEkx0Nq_IFmBIRsc7-68" parent="1" style="text;whiteSpace=wrap;html=1;" value="อัปเดตสภาพอุปกรณ์" vertex="1">
+          <mxGeometry height="40" width="130" x="205" y="880" as="geometry" />
+        </mxCell>
+        <mxCell id="JiRiEkx0Nq_IFmBIRsc7-70" edge="1" parent="1" source="JiRiEkx0Nq_IFmBIRsc7-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="265" y="1130" as="sourcePoint" />
+            <mxPoint x="180" y="285" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JiRiEkx0Nq_IFmBIRsc7-75" edge="1" parent="1" source="JiRiEkx0Nq_IFmBIRsc7-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" target="JiRiEkx0Nq_IFmBIRsc7-53">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="770" y="1073.4" />
+              <mxPoint x="770" y="710" />
+              <mxPoint x="720" y="710" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JiRiEkx0Nq_IFmBIRsc7-77" edge="1" parent="1" source="JiRiEkx0Nq_IFmBIRsc7-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="JiRiEkx0Nq_IFmBIRsc7-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="50" y="1160" />
+              <mxPoint x="50" y="107.5" />
+            </Array>
+            <mxPoint x="190" y="1130" as="sourcePoint" />
+            <mxPoint x="-70" y="107.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JiRiEkx0Nq_IFmBIRsc7-69" parent="1" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" value="5.0" vertex="1">
+          <mxGeometry height="160" width="160" x="330" y="1050" as="geometry" />
+        </mxCell>
+        <mxCell id="JiRiEkx0Nq_IFmBIRsc7-71" parent="1" style="text;whiteSpace=wrap;html=1;" value="บันทึก/แก้ไขข้อมูลอุปกรณ์" vertex="1">
+          <mxGeometry height="40" width="160" x="190" y="1100" as="geometry" />
+        </mxCell>
+        <mxCell id="JiRiEkx0Nq_IFmBIRsc7-73" edge="1" parent="1" source="JiRiEkx0Nq_IFmBIRsc7-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="JiRiEkx0Nq_IFmBIRsc7-69">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="810" y="270" />
+              <mxPoint x="810" y="1130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JiRiEkx0Nq_IFmBIRsc7-74" parent="1" style="text;whiteSpace=wrap;html=1;" value="อ่านรายการอุปกรณ์ที่กำลังถูกยืม" vertex="1">
+          <mxGeometry height="40" width="190" x="637" y="1090" as="geometry" />
+        </mxCell>
+        <mxCell id="JiRiEkx0Nq_IFmBIRsc7-76" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;span&gt;รายงานอุปกรณ์ที่กำลังถูกยืม&lt;/span&gt;&lt;span&gt;&lt;span&gt;&lt;sup class=&quot;superscript&quot;&gt;&lt;/sup&gt;&lt;/span&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="170" x="467" y="1040" as="geometry" />
+        </mxCell>
+        <mxCell id="JiRiEkx0Nq_IFmBIRsc7-78" parent="1" style="text;whiteSpace=wrap;html=1;" value="รายการยืมปัจจุบันและประวัติการยืม" vertex="1">
+          <mxGeometry height="40" width="200" x="160" y="1169" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
