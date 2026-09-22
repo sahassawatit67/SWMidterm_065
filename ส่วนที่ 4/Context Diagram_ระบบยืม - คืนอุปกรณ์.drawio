@@ -1,0 +1,96 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="e_jwLMWvp-v7tJOG-528">
+    <mxGraphModel dx="1094" dy="563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Z54bn6N2Omy_EMf1dEuG-6" edge="1" parent="1" source="Z54bn6N2Omy_EMf1dEuG-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="Z54bn6N2Omy_EMf1dEuG-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z54bn6N2Omy_EMf1dEuG-7" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.008;entryY=0.378;entryDx=0;entryDy=0;entryPerimeter=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="489" y="320" as="sourcePoint" />
+            <mxPoint x="667.8" y="320.24" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z54bn6N2Omy_EMf1dEuG-12" edge="1" parent="1" source="Z54bn6N2Omy_EMf1dEuG-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="Z54bn6N2Omy_EMf1dEuG-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z54bn6N2Omy_EMf1dEuG-2" parent="1" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" value="0&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;ระบบยืม คืน อุปกรณ์ห้องปฏิบัติการออนไลน์&lt;/div&gt;" vertex="1">
+          <mxGeometry height="160" width="160" x="329" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="Z54bn6N2Omy_EMf1dEuG-5" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="159" y="320" as="sourcePoint" />
+            <mxPoint x="329" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z54bn6N2Omy_EMf1dEuG-3" parent="1" style="whiteSpace=wrap;html=1;" value="ผู้ยืม (นักศึกษา/อาจารย์)" vertex="1">
+          <mxGeometry height="80" width="150" x="9" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="Z54bn6N2Omy_EMf1dEuG-8" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="Z54bn6N2Omy_EMf1dEuG-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="669" y="330" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z54bn6N2Omy_EMf1dEuG-4" parent="1" style="whiteSpace=wrap;html=1;" value="เจ้าหน้าที่ห้องปฏิบัติการ" vertex="1">
+          <mxGeometry height="80" width="150" x="669" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="Z54bn6N2Omy_EMf1dEuG-11" edge="1" parent="1" source="Z54bn6N2Omy_EMf1dEuG-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.438;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="Z54bn6N2Omy_EMf1dEuG-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="399.08" y="140" />
+              <mxPoint x="399.08" y="140" />
+            </Array>
+            <mxPoint x="439" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z54bn6N2Omy_EMf1dEuG-10" parent="1" style="whiteSpace=wrap;html=1;" value="ระบบบัญชีมหาวิทยาลัย" vertex="1">
+          <mxGeometry height="80" width="150" x="334" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Z54bn6N2Omy_EMf1dEuG-13" parent="1" style="text;whiteSpace=wrap;html=1;" value="ข้อมูลเข้าสู่ระบบ" vertex="1">
+          <mxGeometry height="40" width="110" x="169" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="Z54bn6N2Omy_EMf1dEuG-14" parent="1" style="text;whiteSpace=wrap;html=1;" value="เงื่อนไขการค้นหา" vertex="1">
+          <mxGeometry height="40" width="120" x="169" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="Z54bn6N2Omy_EMf1dEuG-15" parent="1" style="text;whiteSpace=wrap;html=1;" value="รายละเอียดคำขอยืม" vertex="1">
+          <mxGeometry height="40" width="130" x="169" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="Z54bn6N2Omy_EMf1dEuG-16" parent="1" style="text;whiteSpace=wrap;html=1;" value="ผลการยืนยันตัวตน" vertex="1">
+          <mxGeometry height="40" width="120" x="169" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="Z54bn6N2Omy_EMf1dEuG-17" parent="1" style="text;whiteSpace=wrap;html=1;" value="รายการอุปกรณ์ที่ยืมได้" vertex="1">
+          <mxGeometry height="40" width="140" x="169" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="Z54bn6N2Omy_EMf1dEuG-18" parent="1" style="text;whiteSpace=wrap;html=1;" value="สถานะคำขอ" vertex="1">
+          <mxGeometry height="40" width="90" x="169" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="Z54bn6N2Omy_EMf1dEuG-19" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;span&gt;รายการยืมปัจจุบันและประวัติการยืม&lt;/span&gt;&lt;span&gt;&lt;span&gt;&lt;sup class=&quot;superscript&quot;&gt;&lt;/sup&gt;&lt;/span&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="200" x="169" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="Z54bn6N2Omy_EMf1dEuG-20" parent="1" style="text;whiteSpace=wrap;html=1;" value="ผลการพิจารณาอนุมัติ/ปฏิเสธคำขอ" vertex="1">
+          <mxGeometry height="40" width="200" x="489" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="Z54bn6N2Omy_EMf1dEuG-21" parent="1" style="text;whiteSpace=wrap;html=1;" value="บันทึกการคืนและสภาพอุปกรณ์" vertex="1">
+          <mxGeometry height="40" width="180" x="489" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="Z54bn6N2Omy_EMf1dEuG-22" parent="1" style="text;whiteSpace=wrap;html=1;" value="ข้อมูลอุปกรณ์" vertex="1">
+          <mxGeometry height="40" width="100" x="489" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="Z54bn6N2Omy_EMf1dEuG-23" parent="1" style="text;whiteSpace=wrap;html=1;" value="ผลการตรวจสอบสิทธิ์และข้อมูลผู้ใช้" vertex="1">
+          <mxGeometry height="40" width="210" x="220" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Z54bn6N2Omy_EMf1dEuG-24" parent="1" style="text;whiteSpace=wrap;html=1;" value="ข้อมูลยืนยันตัวตน" vertex="1">
+          <mxGeometry height="40" width="120" x="414" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="Z54bn6N2Omy_EMf1dEuG-25" parent="1" style="text;whiteSpace=wrap;html=1;" value="รายการคำขอยืมที่รอการอนุมัติ" vertex="1">
+          <mxGeometry height="40" width="180" x="484" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="Z54bn6N2Omy_EMf1dEuG-26" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;span&gt;รายงาน/รายการอุปกรณ์ที่กำลังถูกยืม&lt;/span&gt;&lt;span&gt;&lt;span&gt;&lt;sup class=&quot;superscript&quot;&gt;&lt;/sup&gt;&lt;/span&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="210" x="484" y="280" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
